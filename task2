@@ -1,0 +1,2 @@
+def maxnumber(a,b,c):
+return max(x, y, z)
